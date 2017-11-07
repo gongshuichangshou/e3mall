@@ -8472,3 +8472,9 @@ Caused by: java.lang.NullPointerException
 	at java.lang.reflect.Method.invoke(Method.java:606)
 	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
 	... 65 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-11-07 10:23:44.179
+!MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-11-07 10:23:49.645
+!MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
