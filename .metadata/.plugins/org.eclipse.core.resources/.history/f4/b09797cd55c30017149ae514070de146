@@ -1,0 +1,9 @@
+package cn.e3mall.service;
+
+
+
+public interface ItemService {
+
+	TbItem getItemByItemId(Long itemId);
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;cn.e3mall.service&apos; to &apos;e3_manager_service/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;e3_manager_interface&apos;&#x0D;&#x0A;- Destination element: &apos;e3_manager_service/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;e3_manager_interface/src/main/java/cn.e3mall.service&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=e3_manager_service/src\/main\/java" element1="/src\/main\/java&lt;cn.e3mall.service" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1509977232101" version="1.0"/>
+</session>
