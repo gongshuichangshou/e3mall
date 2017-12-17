@@ -6,5 +6,7 @@ public class PageHelperTest {
     @Test
     public void testPage() throws Exception {
         System.out.println("你好");
+        System.out.println("你好");
+        System.out.println("你好");
     }
 }
